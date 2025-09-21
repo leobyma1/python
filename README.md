@@ -1,10 +1,11 @@
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
-![](screenshot.png)
+
+
 
 ## Features
-[Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
+UPDATED 2025 ver 3
 - Original txt2img and img2img modes
 - One click install and run script (but you still must install python and git)
 - Outpainting
@@ -203,3 +204,4 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - Hypertile - tfernd - https://github.com/tfernd/HyperTile
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+
